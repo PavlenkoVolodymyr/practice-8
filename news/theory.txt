@@ -1,0 +1,14 @@
+// https://content.guardianapis.com/search?page=2&q=debate&api-key=test#contacts
+
+// urn - уникальное имя ресурса - протакол + DNS - https://content.guardianapis.com
+// url -  - /search?page=2&q=debate&api-key=test
+// uri - https://content.guardianapis.com/search?page=2&q=debate&api-key=test
+// search - статический параметр - endpoint
+// ? - начало строики запроса
+
+// page=2 - пареметры запроса
+// q=debate - пареметры запроса
+// api-key=test - пареметры запроса
+// & - разделитель параметров запроса
+// #contacts - якорь, стрвница загрузится на этот якорь
+// API - web сервис, который раздает что-либо (например, погоду)
